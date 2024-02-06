@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ambiverts
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning php and JavaScript
-- 💞️ I’m looking to collaborate on several projects and programs to amke a good programmer and developer as well.
+- 💞️ I’m looking to collaborate on several projects and programs to make a good programmer and developer as well.
 - 📫 Reach me on 
 - Call:+254114892770
 - mailto:wagogoreagan@aol.com
